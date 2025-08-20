@@ -24,10 +24,10 @@ From there, packets move across the network to `ROUTER2` at the Tokyo Branch.
 We also have an `ATTACKER` laptop connected to the **INTERNET** between the network backbone and `FIREWALL2`. This represents outside threats trying to access the network.
 
 ---
-# Jeremy's IT CCNA Network Topology Lab 02
+# Jeremy's IT CCNA Connecting Devices Lab 02
 **Goal:** Select the appropriate cable for each Cisco networking device.
 
-![Jeremy's IT CCNA Network Topology Lab 02 image](https://i.imgur.com/RCr9Yjh.png)
+![Jeremy's IT CCNA Connecting Devices Lab 02 image](https://i.imgur.com/RCr9Yjh.png)
 
 1. End Points to Switches
 
